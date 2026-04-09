@@ -15,5 +15,7 @@ public class app {
     public int divide(int a, int b) {
         return a / b;
     }
+
+    System.out.print(add(2,2));
 }
 }
