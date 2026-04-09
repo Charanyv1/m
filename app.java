@@ -1,5 +1,5 @@
 public class app {
-    public static void mian(String[] args){
+    
     public int add(int a, int b) {
         return a + b;
     }
@@ -15,7 +15,8 @@ public class app {
     public int divide(int a, int b) {
         return a / b;
     }
-
+    
+    public static void mian(String[] args){
     System.out.print(add(2,2));
 }
 }
